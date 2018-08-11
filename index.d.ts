@@ -1,11 +1,9 @@
 // Type definitions for @sap/hdbext
-// Project: https://github.com/kulyk/hdbext
-// Definitions by: Nazar Kulyk <https://github.com/kulyk>
+// Project: https://github.com/nazarkulyk/hdbext
+// Definitions by: Nazar Kulyk <https://github.com/nazarkulyk>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 // TypeScript Version: 3.0.1
-
-import { Client } from "@sap/hdbext";
 
 declare module "@sap/hdbext" {
   export type HanaService = {

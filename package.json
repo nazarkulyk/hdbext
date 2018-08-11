@@ -1,0 +1,21 @@
+{
+"contributors": [
+    {
+      "name": "Nazar Kulyk",
+      "url": "https://github.com/nazarkulyk"
+    }
+  ],
+  "dependencies": {},
+  "description": "TypeScript definitions for @sap/hdbext",
+  "license": "unlicense",
+  "main": "",
+  "name": "@types/hdbext",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.0",
+  "version": "0.1.0"
+}
